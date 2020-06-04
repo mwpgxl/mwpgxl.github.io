@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">百槑生</title>
+    <subtitle type="html">这是槑写字的地方</subtitle>
+    <updated>2020-06-05T01:25:31&#43;08:00</updated>
+    <id>https://mpx.im/</id>
+    <link rel="alternate" type="text/html" href="https://mpx.im/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://mpx.im/atom.xml" />
+    <author>
+            <name>槑老板</name>
+            <uri>https://mpx.im/</uri>
+            
+                <email>j@gmail.com</email>
+            </author>
+    <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
+    <generator uri="https://gohugo.io/" version="0.72.0">Hugo</generator>
+</feed>

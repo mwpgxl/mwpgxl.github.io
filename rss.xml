@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>百槑生</title>
+        <link>https://mpx.im/</link>
+        <description>这是槑写字的地方</description>
+        <generator>Hugo 0.72.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>j@gmail.com (槑老板)</managingEditor>
+        
+        
+            <webMaster>j@gmail.com (槑老板)</webMaster>
+        
+        
+            <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+        
+        <lastBuildDate>Fri, 05 Jun 2020 01:25:31 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://mpx.im/rss.xml" />
+        
+        
+    </channel>
+</rss>
